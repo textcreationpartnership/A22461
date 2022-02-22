@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King a proclamation for restraint of killing, dressing, and eating of flesh in Lent, or on fish-dayes, appointed by the law, to be hereafter strictly obserued by all sorts of people.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1628</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22461</idno>
+            <idno type="STC">STC 8879</idno>
+            <idno type="STC">ESTC S122729</idno>
+            <idno type="EEBO-CITATION">38159552</idno>
+            <idno type="OCLC">ocm 38159552</idno>
+            <idno type="VID">29180</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22461)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29180)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1923:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King a proclamation for restraint of killing, dressing, and eating of flesh in Lent, or on fish-dayes, appointed by the law, to be hereafter strictly obserued by all sorts of people.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[3] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton and Iohn Bill, Printers  to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M.DC.XXVII [1627, i.e. 1628]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Arms with break above harp.</note>
+                  <note>"Giuen at Our Court at Whitehall, the fourth day of February, in the third yeere of Our Reigne of Great Britaine, France and Ireland."</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lent.</term>
+               <term>Meat industry and trade --  Great Britain --  Early works to 1800.</term>
+               <term>Food law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:29180:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head> ¶ A Proclamation for reſtraint of killing, dreſsing, and eating of Fleſh in Lent,
+or on Fiſh-dayes, appointed by the Law, to be hereafter <hi>ſtrictly obſerued by all ſorts
+of people.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas diuers good Lawes and Statutes, haue heretofore, with</hi> great care and
+prouidence been made and enacted for the due obſeruati<g ref="char:EOLhyphen"/>on of Lent, and other dayes appointed for
+Fiſh-dayes, aſwell for the ſparing &amp; increaſe of Fleſh victuall, as for the
+maintenance of the Na<g ref="char:EOLhyphen"/>uie and ſhipping of this Realme, by the encouragement of Fiſhermen to goe
+to the Seas for the taking of Fiſh, which Lawes and politique Conſtitutions, haue from time to
+time been ſeconded and quickned by ſundry Proclamations, and other Actes and Ordinances of
+State in the time of Our Royall Predeceſſors; And wheras, notwithſtanding ſo many good
+prouiſions heretofore had and made in that kinde, Wee haue obſerued, that the inordinate
+liberty vſually taken by all ſorts of people, to kill, dreſſe and eat Fleſh in the Lent
+ſeaſon, and on other dayes and times prohibited, is become ſo inueterate an euil, that it
+will require more then ordinary care to ſuppreſſe the ſame.</p>
+            <p>We therefore, much affecting the reformation of ſo great and growing an euil, which is ſo
+great an enemy to the plenty of this Our Kingdom, and ſo great a diſcouragement to Fiſhermen,
+who would be the beſt Seminary of Mariners, Haue thought fit to expreſſe Our Selfe, &amp; Our
+Royall Commandement in this behalfe, in ſuch a plaine and cleare way, that there may from
+henceforth be no pretence of excuſe to any, wherof, without future declaration of Our pleaſure
+in this kinde, Wee ſhall expect, and doe require from all Our Subiects, that due notice bee
+taken, and that a ſtrict and continued obedience and conformity bee yeelded thereunto, both for
+the preſent, and in all ſucceding times.</p>
+            <p>And therefore We doe ſtraitly charge and command all and euery perſon and perſons
+whatſo<g ref="char:EOLhyphen"/>euer, to whom it may appertaine, carefully to prouide and ſee, that theſe Orders
+following may be duely obſerued and put in execution, vpon paine of Our high diſpleaſure, and
+ſuch penalties as by the Lawes of this Our Realme may be inflicted vpon the Offenders, for their
+contempt or neg<g ref="char:EOLhyphen"/>lect of Vs and Our Lawes, whereof We ſhall ſhew Our Selfe moſt
+ſenſible.</p>
+            <p>And firſt, whereas We find, that the chiefeſt cauſe of theſe diſorders hath growen
+from the Li<g ref="char:EOLhyphen"/>cences that haue been granted to Butchers to kill and vtter Fleſh contrary to Law,
+and that by Our Lawes, no Maior, Iuſtice of Peace, or other perſon of what degree or quality
+ſoeuer, can grant any Licence in this kinde; And that the Lords, and others of Our Priuy
+Councell, doe by Our direction forbeare to grant the ſame, or giue way therevnto; Our will and
+pleaſure is, vpon the penalties prouided by Law, and ſuch further puniſhment to be inflicted
+vpon the offenders, as ſhall be thought meete, that no ſuch Licence ſhall bee granted for the
+killing or vttering of Fleſh; And, that no Butcher, or other perſon whatſoeuer, doe by colour
+thereof, kill, vtter, or put to ſale any Fleſh contrary to the Lawes eſtabliſhed and
+prouided in that behalfe.</p>
+            <p>And for the auoiding of ſuch inconueniences hereafter, Our will and pleaſure is, that the
+Lord Maior of Our Citie of <hi>London,</hi> and euery other Officer and Iuſtice of Peace, ſhal
+call before them, and ſend for any of the ſeruants of any Inholders, Victuallers, Cooks,
+Alehouſekeepers, Tauer<g ref="char:EOLhyphen"/>ners, and keepers of Ordinary tables, &amp; ſuch others that vtter
+Victuals, &amp; to examine them vpon their corporall Oathes, what Fleſh is, or hath been during
+the Lent ſeaſon, or other dayes prohi<g ref="char:EOLhyphen"/>bited by the Law, dreſſed, killed, vttered, or eaten
+in their houſes, which if they ſhall refuſe to doe, then to commit to priſon the ſaid
+ſeruants ſo refuſing vpon their Oathes to declare the trueth.</p>
+            <pb facs="tcp:29180:2" rendition="simple:additions"/>
+            <p>That the Lord Mayor of <hi>London</hi> ſhall alſo yeerely before Lent, or at the beginning
+thereof, cauſe all Iuholders, keepers of Ordinary tables, Cookes, Butchers, Victuallers,
+Alehouſe kee<g ref="char:EOLhyphen"/>pers, and Tauerners within the ſayd Citie and Liberties thereof, to appeare before
+him, or ſuch perſons as he ſhall appoynt meete for that purpoſe; And ſhall take
+Recognizances with ſuffici<g ref="char:EOLhyphen"/>ent Sureties of euery of them in good ſummes of money,
+<hi>(Viz.)</hi> One hundred pounds of the Prin<g ref="char:EOLhyphen"/>cipall, and their ſureties thirty pounds apiece,
+to Our vſe, that the Butchers ſhall kill no fleſh, and that the other perſons before
+mentioned, doe not dreſſe any Fleſh in their houſes in the Lent time, or other times
+prohibited, for any reſpect, nor ſuffer it to bee eaten contrary to Law. The like Recognizance
+with Sureties, ſhall be taken of like parties vpon like penalties, by ſuch of the Iuſtices of
+Peace of Our Citie of <hi>Weſtminſter,</hi> and the Liberties thereof, as Wee ſhall thereunto
+ſpecially appoint, and euery of the ſayd Recognizances to be certified into Our Exchequer.</p>
+            <p>And for the Butchers, and others that come with Victuall or Fleſh out of the Countrey into the
+Citie, Our pleaſure is, That the Lord Maior ſhall cauſe certaine perſons to watch at the
+Gates and other like places in the Suburbs, where Fleſh may be brought, to view &amp; ſearch,
+and to intercept the ſame: And if any of thoſe Watchmen ſhall be found negligent and corrupt
+in his Charge, then he to be committed to priſon during the whole Lent.</p>
+            <p>And to the end that Fiſhermen may imploy themſelues to Sea with better encouragement then
+heretofore, and that the Fiſhmongers may furniſh themſelues with ſuch ſtore from time to
+time hereafter, as ſhall be expedient, aſwell for the prouiſion of the Citie, as for
+ſelling the ſame at reaſonable rates, We will that they take notice of this Our commandement
+&amp; conſtant reſo<g ref="char:EOLhyphen"/>lution for obſeruance of Lent, &amp; Fiſh dayes, both now and
+hereafter, as by Law is required.</p>
+            <p>And furthermore, as We thinke it fit, that euery man ſhould be a rule of order and
+abſtinence in his owne houſe, aſwel in reſpect of the publique, as of his priuate eaſe
+and benefit: So We ſtraitly charge &amp; command all Inholders, keepers of Ordinary tables,
+Victuallers, Cookes, Alehouſe<g ref="char:EOLhyphen"/>keepers, and Tauerners, not to make any Supper for any perſon or
+perſons whatſoeuer, vpon Friday nights, either in Lent or out of Lent, nor to ſuffer any
+meate to be then dreſſed, vttered, ſold, or eaten in their houſes, vpon paine of ſuch
+puniſhment, as is due to thoſe that ſhall con<g ref="char:EOLhyphen"/>temne Our Royall pleaſure and
+Commandement.</p>
+            <p>And foraſmuch as vpon further conſideration had of this generall inconuenience, which too
+much liberty hath occaſioned, Wee conceiue, that the reſtraint of killing and dreſſing of
+Fleſh is no ſufficient remedie alone for theſe miſchiefes, vnleſſe there be better care
+alſo taken to ſuppreſſe the vnlawfull &amp; inordinate eating of Fleſh in the time of
+Lent, and on other dayes and times prohibited, wherewith our Subiects haue accuſtomed
+themſelues, rather for delicacie then for neceſſity. It is therefore our Royall with and
+pleaſure, and accordingly, We doe hereby ſtrait<g ref="char:EOLhyphen"/>ly prohibit and forbid all Our Subiects, of
+what degree or quality ſoeuer within this Realme, to eate any manner of Fleſh in the time of
+Lent, or on other dayes now vſually obſerued as Fiſh dayes, without a ſpecial Licence
+firſt obtained from the Lord Archbiſhop of <hi>Canterbury,</hi> in ſuch manner and forme, as
+by the Act of Parliament made in the Fiue and twentieth yeere of King <hi>Henry</hi> the eight is
+ordained, or from the Biſhop of the Dioceſſe, or ſuch other, as by the Law made in the Fift
+yeere of the reigne of Queene <hi>Elizabeth</hi> is ſet downe and declared, and for ſuch
+cauſes as are there expreſſed, haue power to giue Licences in that behalfe, and according to
+Our Lawes in that caſe prouided, (which We will and command ſhall be ſparingly granted, and
+in caſes of neceſſity onely. And that ſuch Licences and Diſpenſations bee not
+ſuffered to paſſe the Seale of the Archbiſhop or Biſhop, vntill the Rate or Taxe by the
+ſayd Statute payable to Vs be duely anſwered to our Clerke of the Faculties, or to ſuch
+perſon or perſons as We vnder Our Priuie Seale ſhall appoynt) vpon paine of Our high
+diſpleaſure, and to be proceeded againſt, ei<g ref="char:EOLhyphen"/>ther according to Our Eccleſiaſticall or
+Temporall Lawes, or by Our Atturney Generall in Our Court of Starre-chamber, as contemners of Our
+Royall Commandement, and wilfull neglectors of the common vtility of the Kingdome; And vpon ſuch
+further penalties, as by the Lawes and Statutes of Our Realme may bee inflicted on thoſe that
+ſhall wilfully offend in this kinde.</p>
+            <p>And as theſe Orders are to be executed in Our Citie of <hi>London,</hi> and places neere to
+the ſame, ſo it is Our expreſſe pleaſure &amp; Commandement, That Our Iuſtices of Peace
+in all Shires with<g ref="char:EOLhyphen"/>in their Rule, and all Maiors, Bailifes and chiefe Officers in Townes Corporate,
+or in any Li<g ref="char:EOLhyphen"/>berties within their precincts, ſhall cauſe the ſame to be obſerued &amp;
+performed in like maner; and that no maner of Toleration, Fauour, or Conniuencie be vſed by any
+Iuſtice of Peace, or other Officer, contrary to the true meaning of this our Proclamation, as
+both they that ſhall preſume wittingly ſo to tolerate the offence, as alſo the party
+himſelfe offending, will anſwere the ſame at their vttermoſt perils; Our Commandement
+being, That Our Lawes in this caſe ſhall bee hereafter ſeuerely executed vpon all Offenders
+whatſoeuer:</p>
+            <p>Further charging and Commaunding the Lord Maior of Our City of <hi>London,</hi> the Iuſtices
+of Affiſe in their ſeuerall Circuits, the Maiors and chiefe Officers of all other Cities &amp;
+Townes
+<pb facs="tcp:29180:3" rendition="simple:additions"/>Corporate, Iuſtices of Peace, Lords of Liberties,
+and all other Officers and Miniſters within the ſeuerall Circuits and places of this Our
+Realme, that they and euery of them in their owne perſons, for example to others, fully obey this
+Our pleaſure, and cauſe and compell the ſame to be obeyed and executed by others, as they
+will anſwere the contrary at their vttermoſt perils.</p>
+            <p>And for the due execution of the premiſſes in all other the Counties, Cities and Towns
+corpo<g ref="char:EOLhyphen"/>rate of this Our Realme, aſwell as in Our Cities of <hi>London</hi> and
+<hi>Weſtminſter,</hi> We do hereby ſtrait<g ref="char:EOLhyphen"/>ly charge and command, and declare Our will and
+pleaſure to be, that all Our Iuſtices of Peace within the ſame Counties, Cities and Townes
+corporate, aſwell within Liberties as without, or ſuch, or ſo many of them as Wee ſhall
+thereunto ſpecially appoint, if for Our better ſeruice, now or hereafter Wee ſhall ſee
+cauſe to appoint any, doe yeerely, and euery yeere before Lent, cauſe to come and appeare
+before them all Inholders, Cookes, Tauerners, Alehouſe-keepers, But<g ref="char:EOLhyphen"/>chers, and other Victuallers
+whatſoeuer, and to require and take of them to Our vſe, ſeuerall Recognizances, with Sureties
+for obſeruation of the premiſſes, <hi>(viz.)</hi> The Principals in tenne pounds, and their
+two Sureties in fiue pounds a piece: And if they ſhall refuſe or neglect to enter into ſuch
+Recognizances, then the Iuſtices of Peace of that Countie, Citie, Towne corporate, or Liberty,
+ſhall ſuppreſſe ſuch perſons ſo refuſing, from victualling any more, and ſhall
+alſo cauſe them foorthwith to become bound by Recognizances with Sureties to Our vſe,
+<hi>(viz.)</hi> The Prin<g ref="char:EOLhyphen"/>cipals in twenty pounds, and their two Sureties in tenne pounds a piece,
+not to victuall, or ſell Beere or Ale from thenceforth; which if they ſhall refuſe to doe,
+then the ſaid Iuſtices to commit to priſon all ſuch perſons ſo refuſing to enter into
+ſuch Recognizances, vntil they ſhal ſubmit them<g ref="char:EOLhyphen"/>ſelues and become bound as aforeſaid. And
+further, that all ſuch Inholders, Cookes, Tauer<g ref="char:EOLhyphen"/>ners, Alehouſe keepers, Butchers, and other
+Victuallers, as ſhall not appeare before the ſaid Iu<g ref="char:EOLhyphen"/>ſtices, as aforeſaid, That they may
+immediatly ſend foorth their Warrants, to grant Proceſſe a<g ref="char:EOLhyphen"/>gainſt them, and euery of them
+ſo making default, to appeare and anſwere their contempt, at the next generall Seſſions of
+the Peace.</p>
+            <p>And further, for the more due puniſhment of Inholders, keepers of Ordinary tables, Cookes,
+Butchers, Victuallers, Alehouſe-keepers, Tauerners, and ſuch like, who ſhall forfeit their
+Re<g ref="char:EOLhyphen"/>cognizances by killing or dreſſing of Fleſh, or ſuffering it to bee eaten in their
+houſes in the Lent time, and other Fiſh-dayes; And to the end that the ſame may be as well
+taken in due forme of Law, as duely certified into Our Exchequer, We do will and require the Lord
+Maior of <hi>London,</hi> and all Iuſtices of Peace, aſwell within Liberties as without,
+reſpectiuely, or ſuch of them as We ſhall thereunto ſpecially appoint, as aforeſaid, That
+at ſuch times as they ſhall meete within their ſeuerall Precincts or Diuiſions, for the
+taking of ſuch Recognizances, they giue notice to the Clerkes of the Peace, or their Deputies, or
+ſuch other Clerkes or their deputies, as Wee ſhall thereunto ſpecially appoint, if Wee
+ſhall appoint any, to attend them for that purpoſe; Of whom Wee will require a ſtrict accompt
+for the legall taking and returning of the ſame Recognizances into Our ſaid Exchequer; The
+ſaid Clerkes of the Peace and their Deputies, or other Clerkes and their Deputies, ſo to be
+imployed by Our appointment, as aforeſayd, taking for the making and certifying of the ſame
+Recognizances of all Inkeepers, Tauerners Cookes, and Butchers, the Fee of two ſhillings ſixe
+pence; and of all Alehouſe-keepers the Fee of twelue pence, as hath been heretofore limited to be
+taken by the Clerkes of the Peace of the ſeuerall Counties, in like ca<g ref="char:EOLhyphen"/>ſes for euery ſuch
+Recognizance, and no more.</p>
+            <p>And laſtly, for that the Fiſhmougers (vpon the obſeruation of the aforeſaid Orders) may
+per<g ref="char:EOLhyphen"/>haps take occaſion thereby to inhance the prices, aſwell of Freſh, as of Sea Fiſh, We
+doe therefore hereby further charge and command all Fiſhmongers whatſoeuer, That they ſell
+and vtter their Fiſh at moderate and vſuall rates and prices; And that all Iuſtices of Peace,
+Maiors, Bailiffes, and other Our Officers, aſwell within Liberties as without, to whom it ſhall
+appertaine, ſhall from time to time take ſuch order with the ſaid Fiſhmongers, that Our
+Subiects bee not grieued by any ſuch inhancement or increaſe of prices vpon paine of Our high
+diſpleaſure, and ſuch further puniſhment as may be inflicted vpon them by Our Lawes.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Court at Whitehall,</hi>
+                  <date>
+                     <hi>the fourth day of February, in the third yeere of Our Reigne of Great Britaine, France,
+and Ireland.</hi>
+                  </date> 
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton and Iohn Bill, Printers to the Kings moſt
+Excellent Maieſtie. M.DC.XXVII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
